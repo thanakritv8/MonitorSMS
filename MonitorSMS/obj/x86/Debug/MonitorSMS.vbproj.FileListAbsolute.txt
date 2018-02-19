@@ -1,0 +1,22 @@
+C:\Users\150229\AppData\Local\Temporary Projects\MonitorSMS\bin\Debug\MonitorSMS.exe
+C:\Users\150229\AppData\Local\Temporary Projects\MonitorSMS\bin\Debug\MonitorSMS.pdb
+C:\Users\150229\AppData\Local\Temporary Projects\MonitorSMS\bin\Debug\MonitorSMS.xml
+C:\Users\150229\AppData\Local\Temporary Projects\MonitorSMS\obj\x86\Debug\MonitorSMS.Resources.resources
+C:\Users\150229\AppData\Local\Temporary Projects\MonitorSMS\obj\x86\Debug\MonitorSMS.vbproj.GenerateResource.Cache
+C:\Users\150229\AppData\Local\Temporary Projects\MonitorSMS\obj\x86\Debug\MonitorSMS.exe
+C:\Users\150229\AppData\Local\Temporary Projects\MonitorSMS\obj\x86\Debug\MonitorSMS.xml
+C:\Users\150229\AppData\Local\Temporary Projects\MonitorSMS\obj\x86\Debug\MonitorSMS.pdb
+C:\Users\150229\AppData\Local\Temporary Projects\MonitorSMS\obj\x86\Debug\MonitorSMS.PL_Main.resources
+D:\MonitorSMS\MonitorSMS\obj\x86\Debug\MonitorSMS.exe
+D:\MonitorSMS\MonitorSMS\obj\x86\Debug\MonitorSMS.xml
+D:\MonitorSMS\MonitorSMS\obj\x86\Debug\MonitorSMS.pdb
+D:\MonitorSMS\MonitorSMS\bin\Debug\MonitorSMS.exe
+D:\MonitorSMS\MonitorSMS\bin\Debug\MonitorSMS.pdb
+D:\MonitorSMS\MonitorSMS\bin\Debug\MonitorSMS.xml
+D:\MonitorSMS\MonitorSMS\bin\Debug\DAL.dll
+D:\MonitorSMS\MonitorSMS\bin\Debug\DAL.pdb
+D:\MonitorSMS\MonitorSMS\bin\Debug\DAL.xml
+D:\MonitorSMS\MonitorSMS\obj\x86\Debug\MonitorSMS.vbprojResolveAssemblyReference.cache
+D:\MonitorSMS\MonitorSMS\obj\x86\Debug\MonitorSMS.PL_Main.resources
+D:\MonitorSMS\MonitorSMS\obj\x86\Debug\MonitorSMS.Resources.resources
+D:\MonitorSMS\MonitorSMS\obj\x86\Debug\MonitorSMS.vbproj.GenerateResource.Cache
